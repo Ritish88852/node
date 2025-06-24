@@ -1,0 +1,2 @@
+[{"username":"Ritish user","password":"$2b$10$9OxzWP5b0VBIITj7eAHTIOZY8wnTUh3MQtlalU3QZBdUUn5QFY44S","roles":{"User":2001,"Editor":1984}},{"username":"Ritish editor","password":"$2b$10$CBlQWV51ABDUfXbiEt4FM.mHATBjwPv8Ypp0hhGNIUy6w5.1xKIqO","roles":{"User":2001}},{"username":"Ritish admin","password":"$2b$10$dmtJtNa2P2niHRaxP9/4ZOdXuvoobyWMzg4cm0h/Wq.Tts9TtyTxq","roles":{"User":2001, "Admin":5150,
+    "Editor":1984}}]
